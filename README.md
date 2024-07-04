@@ -3,4 +3,7 @@ This repository contains a local Retrieval-Augmented Generation (RAG) system des
 Here we've used all the free resources:  
 Ollama with powerful llama3, ollamaembeddings for embedding, faiss as a vectordb, Streamlit framework for the UI design  
 Everything is free runs locally, need a slightly powerful machine for better processing.  
+### To run the app  
+streamlit run app.py  
+  
 Hope you'll like this :)
